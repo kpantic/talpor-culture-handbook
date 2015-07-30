@@ -1,0 +1,5 @@
+site_name: talPor Culture Handbook
+theme: mkdocs
+repo_url: https://github.com/talpor/talpor-culture-handbook/
+site_favicon: images/favicon.ico
+copyright: talPor Solutions 2015
